@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://systems-under-siege.untitledpublishers.com/</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://systems-under-siege.untitledpublishers.com/blog/</loc>
-    <lastmod>2026-02-03</lastmod>
+    <lastmod>2026-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://systems-under-siege.untitledpublishers.com/blog/my-kid-won-t-fold-clothes-here-s-what-actually-works.html</loc>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://systems-under-siege.untitledpublishers.com/blog/the-kitchen-drawer-reckoning-47-gadgets-down-to-23.html</loc>
