@@ -1,0 +1,89 @@
+const CONFIG = window.SITE_CONFIG || {
+    blogId: 'systems-under-siege',
+    workerUrl: 'https://up-blogs-1.micaiah-tasks.workers.dev',
+    courierListId: '181407fa-1c6f-4cd5-91e4-651a53c53e2e'
+};
+
+const subscribeForm = document.getElementById('subscribe-form');
+if (subscribeForm) {
+    subscribeForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const email = subscribeForm.querySelector('input[type="email"]').value;
+        const button = subscribeForm.querySelector('button');
+        const originalText = button.textContent;
+        button.textContent = 'Subscribing...'; button.disabled = true;
+        try {
+            const response = await fetch(`${CONFIG.workerUrl}/${CONFIG.blogId}/subscribe`, {
+                method: 'POST', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email })
+            });
+            if (response.ok) {
+                button.textContent = 'Subscribed! \u2713';
+                subscribeForm.querySelector('input').value = '';
+            } else { throw new Error('Subscribe failed'); }
+        } catch (err) { button.textContent = 'Error - Try Again'; }
+        setTimeout(() => { button.textContent = originalText; button.disabled = false; }, 3000);
+    });
+}
+
+function shareOnTwitter(url, title) {
+    window.open(`https://twitter.com/intent/tweet?url=${encodeURIComponent(url)}&text=${encodeURIComponent(title)}`, '_blank', 'width=550,height=420');
+}
+function shareOnFacebook(url) {
+    window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`, '_blank', 'width=550,height=420');
+}
+function copyLink(url) {
+    navigator.clipboard.writeText(url).then(() => {
+        const copyBtn = document.querySelector('.share-btn.copy');
+        if (copyBtn) { const orig = copyBtn.textContent; copyBtn.textContent = 'Copied!'; setTimeout(() => copyBtn.textContent = orig, 2000); }
+    });
+}
+
+async function toggleLike(postSlug) {
+    try {
+        const response = await fetch(`${CONFIG.workerUrl}/${CONFIG.blogId}/posts/${postSlug}/like`, { method: 'POST', headers: { 'Content-Type': 'application/json' } });
+        if (response.ok) {
+            const data = await response.json();
+            document.querySelector('.like-btn').classList.add('liked');
+            document.querySelector('.like-count').textContent = `${data.likes} ${data.likes === 1 ? 'like' : 'likes'}`;
+        }
+    } catch (err) { console.error('Like failed:', err); }
+}
+
+async function loadLikeCount(postSlug) {
+    const likeCount = document.querySelector('.like-count');
+    if (!likeCount) return;
+    try {
+        const response = await fetch(`${CONFIG.workerUrl}/${CONFIG.blogId}/posts/${postSlug}/likes`);
+        if (response.ok) { const data = await response.json(); likeCount.textContent = `${data.likes} ${data.likes === 1 ? 'like' : 'likes'}`; }
+        else { likeCount.textContent = '0 likes'; }
+    } catch { likeCount.textContent = '0 likes'; }
+}
+
+async function loadComments(postSlug) {
+    const commentsList = document.querySelector('.comments-list');
+    if (!commentsList) return;
+    try {
+        const response = await fetch(`${CONFIG.workerUrl}/${CONFIG.blogId}/posts/${postSlug}/comments`);
+        if (response.ok) {
+            const data = await response.json();
+            const comments = data.comments || data || [];
+            if (comments.length === 0) { commentsList.innerHTML = '<p>No comments yet. Be the first!</p>'; return; }
+            commentsList.innerHTML = comments.map(c => `<div class="comment"><div class="comment-author">${escapeHtml(c.name || c.author || 'Anonymous')}</div><div class="comment-date">${formatDate(c.createdAt || c.created_at)}</div><div class="comment-text">${escapeHtml(c.content || c.text)}</div></div>`).join('');
+        } else { commentsList.innerHTML = '<p>No comments yet. Be the first!</p>'; }
+    } catch { commentsList.innerHTML = '<p>No comments yet. Be the first!</p>'; }
+}
+
+async function submitComment(postSlug, author, text) {
+    try {
+        const response = await fetch(`${CONFIG.workerUrl}/${CONFIG.blogId}/posts/${postSlug}/comments`, {
+            method: 'POST', headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ postId: postSlug, name: author, content: text })
+        });
+        if (response.ok) { loadComments(postSlug); return true; }
+    } catch (err) { console.error('Submit comment failed:', err); }
+    return false;
+}
+
+function escapeHtml(text) { if (!text) return ''; const div = document.createElement('div'); div.textContent = text; return div.innerHTML; }
+function formatDate(dateString) { if (!dateString) return ''; return new Date(dateString).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }); }
