@@ -1,14 +1,47 @@
 # Systems Under Siege
 
-One Woman's Battle for a Clean House.
+An 11ty-powered blog about home organization for overwhelmed parents.
 
-A blog by Emily, published by [Untitled Publishers](https://untitledpublishers.com).
+## Development
 
-## About
+```bash
+npm install
+npm run dev    # Start dev server
+npm run build  # Build for production
+```
 
-Systems Under Siege follows Emily's journey through the chaos of household management - the systems that fail, the messes that multiply, and the small victories that keep us going.
+## Deployment
 
-## Links
+Uses GitHub Pages with GitHub Actions. On push to main, the site auto-builds and deploys.
 
-- Website: https://systems-under-siege.untitledpublishers.com
-- Subscribe: siege@untitledpublishers.com
+### Setup
+
+1. Go to repo Settings → Pages
+2. Set Source to "GitHub Actions"
+3. Create `.github/workflows/deploy.yml` with the 11ty build workflow
+
+## Configuration
+
+Edit `src/_data/site.json` for site settings, colors, and API connections.
+
+## Adding Posts
+
+Create markdown files in `src/posts/`:
+
+```markdown
+---
+title: "Post Title"
+date: 2026-02-03
+excerpt: "Short description"
+image: https://example.com/image.jpg
+author: Emily
+tags:
+  - organizing
+---
+
+Content here...
+```
+
+---
+
+Published by [Untitled Publishers](https://untitledpublishers.com)
