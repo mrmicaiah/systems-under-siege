@@ -1,0 +1,50 @@
+{
+  "name": "Systems Under Siege",
+  "tagline": "One Woman's Battle for a Clean House",
+  "description": "Hi, I'm Emily. I'm a graphic designer working from home, a homeschool mom to two kids, and the person solely responsible for keeping our 3-bedroom house from complete chaos. Spoiler: I'm not winning. This blog is where I share what I'm learning—organizing tactics that actually work when you're surrounded by unpredictable, spontaneous people.",
+  "url": "https://systems-under-siege.untitledpublishers.com",
+  "author": {
+    "name": "Emily",
+    "email": "siege@untitledpublishers.com"
+  },
+  "logo": "/images/logo.png",
+  "favicon": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1770137550/systems-under-siege/favicon.jpg",
+  "colors": {
+    "primary": "#9CAF88",
+    "primaryDark": "#7A9066",
+    "background": "#F5F1E8",
+    "surface": "#FFFFFF",
+    "text": "#2D2A26",
+    "textMuted": "#6B6560",
+    "border": "#E0D5C5"
+  },
+  "fonts": {
+    "serif": "Libre Baskerville",
+    "sans": "Inter"
+  },
+  "social": {
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "analytics": {
+    "ga4Id": "G-M1ZBLY61CF",
+    "facebookPixelId": "1545863786644043"
+  },
+  "api": {
+    "blogId": "systems-under-siege",
+    "workerUrl": "https://up-blogs-1.micaiah-tasks.workers.dev",
+    "courierListId": "181407fa-1c6f-4cd5-91e4-651a53c53e2e"
+  },
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Archive", "url": "/archive/" },
+    { "label": "About", "url": "/about/" }
+  ],
+  "footerLinks": [
+    { "label": "RSS", "url": "/feed.xml" },
+    { "label": "Sitemap", "url": "/sitemap.xml" }
+  ],
+  "copyright": "Systems Under Siege. An Untitled Publishers blog."
+}
