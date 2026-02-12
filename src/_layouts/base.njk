@@ -85,7 +85,7 @@
   <footer class="site-footer">
     <div class="container">
       <div class="footer-content">
-        <p>&copy; 2026 {{ site.copyright }}</p>
+        <p>&copy; {% set year = "now" | date("%Y") %}{{ year }} {{ site.copyright }}</p>
         <div class="footer-links">
           {% for link in site.footerLinks %}
           <a href="{{ link.url }}">{{ link.label }}</a>
