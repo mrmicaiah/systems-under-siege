@@ -4,12 +4,14 @@ date: 2026-01-10
 excerpt: "Full closet but nothing to wear? Learn The Joy Test — a practical 3-question framework for deciding what earns space in your closet and your life."
 author: Emily
 tags:
-  - method tutorial
   - joy test
+  - method tutorial
   - decluttering
   - closet organization
   - reclaiming territory
 ---
+
+## Why This Method Exists
 
 I used to think my closet problem was that I didn't have enough clothes. Every morning I'd stand in front of a closet stuffed so full the hangers couldn't move, and I'd think, "I have nothing to wear."
 
@@ -21,7 +23,7 @@ The Joy Test exists because I needed a way to decide what stays and what goes. N
 
 ---
 
-## HOW I DISCOVERED THIS
+## How I Discovered This
 
 I'd read the organizing books. I knew the famous question: "Does it spark joy?" And I tried it, I really did. I held up a shirt and asked myself if it sparked joy, and the answer was... I don't know? It's a gray shirt. It's fine. Joy seems like a strong word for a gray shirt.
 
@@ -35,7 +37,7 @@ Three hours later, I'd developed what I now call The Joy Test — though it prob
 
 ---
 
-## THE METHOD STEP-BY-STEP
+## The Method Step-by-Step
 
 The Joy Test is a modified decision framework for what earns space in your home. It's not about minimalism or perfection. It's about intentionality — keeping what serves your actual life and releasing what doesn't.
 
@@ -78,7 +80,7 @@ Move quickly. Don't agonize. Your first instinct is usually right. If you're deb
 
 ---
 
-## REAL-LIFE APPLICATION
+## Real-Life Application
 
 That Saturday with the clothes mountain on my bed, I went through every single item using the three questions. Here's what I found:
 
@@ -94,7 +96,7 @@ By the end, I had donated four garbage bags of clothes and kept maybe 60% of wha
 
 ---
 
-## TOOLS & PRODUCTS
+## Tools & Products
 
 *This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
@@ -102,11 +104,9 @@ By the end, I had donated four garbage bags of clothes and kept maybe 60% of wha
 
 **[Hinwo 70L Fabric Storage Bin](https://www.amazon.com/Hinwo-Capacity-Rectangle-Organizer-Waterproof/dp/B08F3HB8H5?tag=untitledpub03-20)** ($24) — For the sentimental items that earned their space but don't need to be hanging. My wedding dress and the college t-shirt live in a bin on the top shelf, contained but kept.
 
-**Large Donation Bags** — Heavy-duty bags that don't tear when you're hauling four bags of clothes to the donation center. Get them in your house before you start so you're not hunting for containers mid-purge.
-
 ---
 
-## YOUR TURN
+## Your Turn
 
 You don't have to do your whole closet in one day. Start with one section — just the hanging shirts, or just the jeans, or just the shelf of sweaters.
 
