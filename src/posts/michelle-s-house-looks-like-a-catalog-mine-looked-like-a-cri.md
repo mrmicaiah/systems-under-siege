@@ -4,11 +4,11 @@ date: 2026-01-10
 excerpt: "Learn how to panic-clean your house in under an hour by focusing only on what guests will actually see. The Guest Path method saves time and sanity."
 author: Emily
 tags:
-  - disaster chronicle
   - guest path
-  - emergency protocols
+  - disaster chronicle
   - speed cleaning
-  - entertaining
+  - game night
+  - emergency protocols
 ---
 
 Michelle texted at 5:15 PM on a Friday: "Hey! So excited for game night tonight! We'll be there around 6:30. Can I bring anything?"
@@ -25,7 +25,7 @@ The guest bathroom hadn't been properly cleaned since my 15-minute strike incide
 
 ---
 
-## THE DISASTER UNFOLDS
+## The Disaster Unfolds
 
 I made my first mistake immediately: I tried to clean everything.
 
@@ -45,7 +45,7 @@ That's when I remembered The Guest Path.
 
 ---
 
-## THE METHOD THAT SAVED ME
+## The Method That Saved Me
 
 The Guest Path is one of my emergency protocols, a method I developed after realizing that guests don't actually see your whole house. They see a path — a specific route from your front door to wherever they'll spend time.
 
@@ -93,7 +93,7 @@ The Guest Path worked.
 
 ---
 
-## THE PRODUCTS THAT HELPED
+## The Products That Helped
 
 *This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
@@ -101,11 +101,9 @@ The Guest Path worked.
 
 **[MR.SIGA Microfiber Cleaning Cloths 12-Pack](https://www.amazon.com/MR-SIGA-Microfiber-Cleaning-Cloth-Pack/dp/B07HRCDDL1?tag=untitledpub03-20)** ($10) — I keep these in multiple rooms so I'm not running around the house looking for a rag when I need to wipe something down. One damp, one dry, hit the surfaces, move on. Fair warning: you do have to wash these regularly or they get gross and start smelling like mildew. I throw them in with towels once a week.
 
-**[STORAGEIDEAS Fabric Storage Cubes 4-Pack](https://www.amazon.com/STORAGEIDEAS-Inch-Fabric-Storage-Cubes/dp/B0DTJV59W2?tag=untitledpub03-20)** ($25) — These fit in our entryway cubby and hide all the chaos that would otherwise live on the floor. Shoes, bags, random kid stuff — it all goes in the cubes when guests are coming.
-
 ---
 
-## THE TAKEAWAY
+## The Takeaway
 
 Here's what I learned from this particular Friday evening: Michelle doesn't actually care about my messy house. She never has. The panic I feel when she's coming over is entirely about me and my own insecurities, not about anything she's ever said or done.
 
