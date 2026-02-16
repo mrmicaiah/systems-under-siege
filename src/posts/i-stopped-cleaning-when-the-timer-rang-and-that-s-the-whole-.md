@@ -4,11 +4,11 @@ date: 2026-01-10
 excerpt: "Panic clean your bathroom in 15 minutes with this focused method. Learn what to clean, what to skip, and why stopping when the timer rings is the whole point."
 author: Emily
 tags:
-  - quick win
   - 15-minute strike
+  - quick win
   - bathroom
   - emergency cleaning
-  - daily defense
+  - guest prep
 ---
 
 Marie called at 2:47 PM on a Tuesday.
@@ -27,7 +27,7 @@ I had twenty minutes, a bathroom that looked like a science experiment, and a mo
 
 ---
 
-## THE QUICK FIX
+## The Quick Fix
 
 Here's what I've learned about panic cleaning: without a plan, you'll spend twenty minutes fluttering around accomplishing nothing. You'll wipe one thing, notice another thing, start that, get distracted, and when the doorbell rings, you'll have touched seventeen surfaces and finished zero.
 
@@ -83,7 +83,7 @@ I stopped. I walked away. The bathroom wasn't perfect. But it was presentable.
 
 ---
 
-## THE RESULTS
+## The Results
 
 Marie arrived, used the bathroom, and said nothing. Which is the goal. No comments about the state of the bathroom means the bathroom passed.
 
@@ -114,7 +114,7 @@ Marie brought me a ceramic rooster and a set of doilies from the estate sale. I 
 
 ---
 
-## THE PRODUCTS THAT SPEED THIS UP
+## The Products That Speed This Up
 
 *This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
@@ -126,7 +126,7 @@ The timer is your phone. You don't need a fancy one. You just need to actually s
 
 ---
 
-## YOUR TURN
+## Your Turn
 
 Next time you have fifteen minutes before someone arrives — anyone, not just your mother-in-law — try this:
 
