@@ -4,11 +4,11 @@ date: 2026-01-10
 excerpt: "When crisis hits, \"better systems\" won't save you. Learn the Priority Pyramid — a hierarchy for deciding what matters when everything's on fire."
 author: Emily
 tags:
-  - myth buster
   - priority pyramid
-  - emergency protocols
+  - myth buster
   - crisis management
   - overwhelm
+  - emergency protocols
 ---
 
 "You just need better systems," the organizing blogs tell us. "With the right routines and habits, you can handle anything that comes your way. Meal prep on Sundays, batch your tasks, wake up earlier, and you'll never feel overwhelmed again."
@@ -21,7 +21,7 @@ Then my sister Jean called on a Tuesday afternoon, and reality came for me.
 
 ---
 
-## WHY I TRIED IT
+## Why I Tried It
 
 I'd spent the previous month building what I thought was a bulletproof system. Morning routines, evening lockdowns, command center on the wall, meal plan for the week. I was feeling good. Confident, even. Like maybe I'd finally cracked the code.
 
@@ -33,7 +33,7 @@ And then my phone rang, and I saw Jean's name on the screen.
 
 ---
 
-## THE REALITY
+## The Reality
 
 Jean is my sister, and she's the most capable person I know. She's a single mom to Faith, who's eleven, and Hope, who's eight, and she handles everything herself with a "get it done" energy I've never been able to match. She works full-time, raises two kids alone, and almost never asks for help. So when she calls in the middle of a Tuesday, I answer.
 
@@ -59,7 +59,7 @@ The systems I'd built weren't designed for this. No system is designed for "surp
 
 ---
 
-## WHAT ACTUALLY WORKS INSTEAD
+## What Actually Works Instead
 
 At 3:15, I stopped trying to do it all. I sat down at the kitchen table, ignored the chaos around me, and made a list. Not a to-do list — a hierarchy list. What actually mattered, in order, for the next four hours?
 
@@ -98,7 +98,7 @@ The Priority Pyramid worked because it gave me permission to stop trying to do e
 
 ---
 
-## THE PRODUCTS THAT HELPED
+## The Products That Helped
 
 *This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
@@ -112,7 +112,7 @@ But two things did make that Tuesday easier:
 
 ---
 
-## THE TAKEAWAY
+## The Takeaway
 
 The myth that "better systems" can handle everything is a lie we tell ourselves because it feels controllable. If the problem is just that we're not organized enough, then we can fix it. We can buy the planner, build the routine, become the person who handles everything.
 
