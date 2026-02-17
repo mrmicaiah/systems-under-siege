@@ -1,89 +1,125 @@
 ---
 title: "We Had 23 Coats for a Family of Four"
 date: 2026-01-14
-excerpt: "Our coat closet was so stuffed I couldn't find my daughter's winter coat. Three simple questions helped me clear 10 coats in 20 minutes."
+excerpt: "We Had 23 Coats for a Family of Four --- THE CRISIS Last winter, we could not fit in our coat closet. Not \"it was getting full.\" Not \"it was a little crowded.\" We could not physically close the door...."
 author: Emily
 tags:
   - quick win
   - the joy test
   - coat closet
   - decluttering
-  - closet organization
+  - 15 minutes
 ---
 
 # We Had 23 Coats for a Family of Four
 
+---
+
 ## THE CRISIS
 
-The temperature dropped to 19 degrees, and I couldn't find Gracie's heavy winter coat.
+Last winter, we could not fit in our coat closet.
 
-I knew it was in the coat closet. It had to be in the coat closet. But when I opened the door, I was staring at a wall of coats so tightly packed that pulling one out required a negotiation with the laws of physics. I started shoving hangers aside, counting as I went. Twenty-three coats. For a family of four.
+Not "it was getting full." Not "it was a little crowded." We could not physically close the door.
 
-"Mom, I'm COLD," Gracie announced from the doorway, arms wrapped around herself for dramatic effect.
+Coats spilled out every time we opened it. Scarves fell on our heads. Gracie's rain jacket from three years ago (that no longer fit) had somehow migrated to the front. Joey's soccer windbreaker from last season was tangled with umbrellas. Lucas's work jacket was buried behind what I can only describe as a puffy coat landslide.
 
-I yanked out a puffy blue coat I didn't recognize. Too small—Joey wore this three years ago. A fleece jacket with a broken zipper. Lucas's college hoodie that he hasn't touched since 2019 but "might want someday." A raincoat I bought on clearance that none of us have ever worn because it turns out we just get wet when it rains like normal people.
+I finally snapped when we were already running late for church and I couldn't find Gracie's Sunday coat. I started pulling things out and throwing them on the floor. Joey's old jacket. A rain poncho from a theme park trip in 2023. A fleece that said "VOLUNTEER" from an event I didn't remember volunteering at.
 
-Gracie's winter coat was in there somewhere, buried under five years of "we might need this" decisions.
+Twenty minutes later, I had counted them.
 
-I had fifteen minutes before we needed to leave for co-op.
+Twenty-three coats.
+
+For four people.
+
+Six of them were Gracie's—only two of which fit her. Four were Joey's—one fit. Lucas had seven coats and could only find "the good one" about half the time. I had six, most of which I never wore because they were buried behind the children's outgrown collection.
+
+We did not need twenty-three coats. We needed maybe ten.
 
 ---
 
 ## THE QUICK FIX
 
-Here's the thing about coat closets: they become default storage for every jacket anyone in the family has ever owned, plus coats for hypothetical guests who never visit and weather conditions that don't exist in your climate.
+I had fifteen minutes before we needed to leave for church (now very late). I could not do a full closet overhaul in fifteen minutes.
 
-The Joy Test works beautifully here because coats have clear, answerable criteria. You don't need to hold each one and feel your feelings. You need to ask three questions.
+But I could apply The Joy Test—quick and dirty.
 
-**The Coat Closet Joy Test (15-20 minutes):**
+The Joy Test isn't about whether something makes you feel emotionally joyful. It's practical: **Does this item earn its space in my home right now?**
 
-**Step 1: Pull everything out.**
-Every coat, every jacket, every hoodie that's migrated in there. Pile them on the couch. Yes, all of them. This is important because you need to see the actual volume of what you're storing.
+For coats, that meant three quick questions:
+1. Does it fit someone who lives here?
+2. Has it been worn in the past year?
+3. Would we actually grab it over another coat?
 
-**Step 2: For each item, ask three questions.**
-- Does it fit someone who currently lives here?
-- Has it been worn in the past 12 months?
-- Does it serve a purpose no other coat serves?
+I went through the pile on my floor, one coat at a time. Five seconds per coat. No hesitation allowed.
 
-If the answer to all three is no, it goes. Not into a "maybe" pile—those don't exist in Quick Win mode. It goes into a donation bag or the trash, depending on condition.
+**Gracie's coats:** Four out of six were too small. Gone. One was her Sunday coat (we'd found it, finally). One was her everyday coat. Two keepers.
 
-**Step 3: Be honest about duplicates.**
-Joey doesn't need four hoodies in the coat closet. Gracie doesn't need three lightweight jackets. Lucas doesn't need—actually, Lucas only had two coats in there, because Lucas is apparently the only family member who doesn't treat the coat closet like a fabric archive.
+**Joey's coats:** Three out of four were too small or too worn. Gone. His current winter coat stayed. One keeper.
 
-I, on the other hand, had seven jackets. Seven. I wear two of them.
+**Lucas's coats:** He had seven. I made him come to the hallway and pick two. TWO. His work jacket and his warm coat. The rest hadn't been touched in years. He resisted briefly, then admitted he wore the same two coats every time. Five gone.
 
-**Step 4: Address the "guest coats."**
-If you're storing coats for guests, ask yourself: When did a guest last need a coat from your closet? If you can't remember, those coats are taking up space for a scenario that doesn't happen. Keep one or two if it makes you feel better. Donate the rest.
+**My coats:** I kept three. My winter coat, my rain jacket, and a light jacket for fall. The other three were "just in case" coats I never reached for. Gone.
 
-**Step 5: Rehang what stays, with space between hangers.**
-If the hangers are still touching, you kept too much. Go back to step 2.
+Total time: thirteen minutes.
+Coats remaining: eight (plus one extra for each kid for growth spurts—we went from 23 to 10).
 
 ---
 
 ## THE RESULTS
 
-I found Gracie's winter coat. It was behind Lucas's college hoodie (donated), under my raincoat I've never worn (donated), next to Joey's coat from three years ago (donated).
+We made it to church with four minutes to spare. Gracie was wearing her Sunday coat. I could close the closet door.
 
-The whole process took 22 minutes, which was seven minutes longer than I had, which meant we were late to co-op. But we were late to co-op with Gracie wearing her actual winter coat instead of a too-small fleece with a broken zipper.
+But here's what I learned from this panicked fifteen-minute purge:
 
-Here's what the coat closet looks like now: thirteen coats instead of twenty-three. Each person has two to three coats that they actually wear, plus one "nice" coat for church or events. There's enough space to see what's in there without excavation.
+**The Joy Test works best in crisis.**
 
-The ten coats I removed went into a donation bag that went directly into the car so I wouldn't "reconsider" any of them. Three went in the trash because they were too damaged to donate.
+I didn't have time to agonize over "but what if I need this fleece someday." I had to decide: Does this earn space? No? GONE.
 
-This isn't a permanent solution. Coats will accumulate again—that's the nature of coat closets. But now I know the three questions to ask, and I know it only takes twenty minutes to reset when things get out of control. I'll probably do this again next January.
+Most of those coats had been in my closet for years because I never had time to deal with them. But I also never MADE time because it wasn't urgent.
 
-For now, though, I can find Gracie's coat. That's enough.
+The church deadline made it urgent. And it turns out, I didn't need hours. I needed focus.
+
+**Quick wins matter.**
+
+I didn't reorganize the entire closet that morning. I didn't buy matching hangers or install a better system. I just removed thirteen coats that had no business living in my home.
+
+But that one quick win changed everything. Suddenly, I could SEE the coats we actually wore. I could REACH them without causing an avalanche. The closet went from stressful to functional in under fifteen minutes.
+
+Sometimes that's all you need.
 
 ---
 
-## THE PRODUCT THAT HELPS
+## TOOLS & PRODUCTS
 
 *This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
-**HOUSE DAY Velvet Hangers (50-pack)**
+I didn't use any products during the initial panic purge. But afterward, I added two things to maintain the win:
 
-The only product I'm recommending for this project is better hangers. Our coat closet had a mix of wire hangers, plastic hangers from various stores, and those chunky wooden hangers that take up four inches of rod space each.
+**[Slim Velvet Hangers](https://www.amazon.com/dp/B00FXNAAW2?tag=untitledpub03-20)** ($25 for 50) — We had a mishmash of hangers, some chunky plastic ones that took up tons of space. Switched to slim hangers, and suddenly there was room to breathe. Coats don't slip off, and the visual uniformity makes the closet feel intentional instead of chaotic.
 
-I replaced everything with slim velvet hangers. They're all the same size, they don't let coats slip off onto the floor, and they take up about half the space of the old hanger chaos. The uniform look also makes it immediately obvious when something new has snuck in there that doesn't belong.
+**[Over-Door Hook Rack](https://www.amazon.com/dp/B01K8CT9TG?tag=untitledpub03-20)** ($18) — Now that we could close the door, I hung this on the back for everyday coats. The kids grab their daily jackets from here without even opening the closet. The "good" coats stay on proper hangers inside.
 
-This isn't essential—you can absolutely do the coat closet purge with whatever hangers you have. But if your closet is tight on space even after decluttering, switching to slim hangers buys you another few inches of breathing room.
+---
+
+## YOUR TURN
+
+Go to your coat closet. Right now. I'll wait.
+
+Count them.
+
+How many coats do you have for your household?
+
+Now ask yourself:
+- How many actually fit people who live there?
+- How many have been worn in the past year?
+- How many would you actually grab before reaching for something else?
+
+You probably don't need the full Joy Test treatment today. But pick three coats that you KNOW don't earn their space anymore, and put them in a donation bag.
+
+Three coats. Five minutes.
+
+That closet's been driving you crazy for months. Start with three.
+
+---
+
+*We now have a rule: when a kid outgrows a coat, it leaves the house within one week. No "storing it for the next size" (we don't have a next kid). No "keeping it just in case" (in case of what, a coat emergency?). It goes. The closet stays conquerable. And I can find Gracie's Sunday coat in under ten seconds.*
