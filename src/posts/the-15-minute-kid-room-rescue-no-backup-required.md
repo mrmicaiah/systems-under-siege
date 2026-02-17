@@ -1,23 +1,23 @@
 ---
 title: "The 15-Minute Kid Room Rescue (No Backup Required)"
 date: 2026-01-12
-excerpt: "Joey's friend was 20 minutes away. His room was a lego minefield. Here's the 15-minute kid room rescue that made it playdate-safe."
+excerpt: "THE CRISIS The text came at 3:42 PM: \"Hey! Boys are antsy, heading your way now. See you in 20!\" I looked up from my computer. Joey's friend was coming over for a playdate. The playdate I'd agreed to..."
 author: Emily
 tags:
-  - quick win
   - 15-minute strike
-  - joey's room
-  - kids room
-  - playdate
-  - daily defense
+  - kids rooms
+  - quick win
+  - playdates
   - legos
 ---
+
+## THE CRISIS
 
 The text came at 3:42 PM: "Hey! Boys are antsy, heading your way now. See you in 20!"
 
 I looked up from my computer. Joey's friend was coming over for a playdate. The playdate I'd agreed to yesterday. The one I'd completely forgotten about until this exact moment.
 
-Joey's room-where two ten-year-old boys would inevitably end up-currently featured a lego minefield between the door and the bed, a week's worth of dirty clothes "hidden" under the desk chair, and what I can only describe as a graveyard of half-finished projects covering every horizontal surface.
+Joey's room—where two ten-year-old boys would inevitably end up—currently featured a lego minefield between the door and the bed, a week's worth of dirty clothes "hidden" under the desk chair, and what I can only describe as a graveyard of half-finished projects covering every horizontal surface.
 
 "JOEY!" I yelled.
 
@@ -45,7 +45,7 @@ The bin went in the closet. Done.
 
 Two places the boys will actually sit: bed and desk chair. Everything else can stay chaotic.
 
-I pulled the comforter up over whatever was underneath (don't ask), tossed the pillows toward the headboard, and called it made. The desk chair had three days of clothes draped over it-I balled them up and threw them in the closet on top of the lego bin.
+I pulled the comforter up over whatever was underneath (don't ask), tossed the pillows toward the headboard, and called it made. The desk chair had three days of clothes draped over it—I balled them up and threw them in the closet on top of the lego bin.
 
 The desk itself? Covered in "important" projects. I pushed everything to the back half, leaving the front half clear enough to set down a snack plate if needed.
 
@@ -77,14 +77,12 @@ That last one is my current situation. But that's a problem for tomorrow.
 
 ## THE QUICK PRODUCT WIN
 
-*This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running-thank you!*
+*This post contains affiliate links, which means I earn a small commission if you purchase through these links, at no extra cost to you. I only recommend products I actually use in my own chaotic household. Your support helps keep this blog running—thank you!*
 
 Two things that make this faster:
 
-**[12 Gallon Hinged Lid Industrial Tote](https://amzn.to/4sDCE4O) ($15)**
+**[12 Gallon Hinged Lid Industrial Tote](https://www.amazon.com/dp/B007Y7YNYA?tag=untitledpub03-20)** ($15)
+Big enough to sweep an entire lego collection into, with a flip-top lid so you're not fumbling with a separate piece while panicking. Lives in Joey's closet for exactly this purpose. When we have time, we sort it back out. When we don't, it stays in the bin and nobody dies from stepping on tiny plastic.
 
-Big enough to sweep an entire lego collection into, with a flip-top lid so you're not fumbling with a separate piece while panicking. Lives in Joey's closet for exactly this purpose.
-
-**[VOCOO Digital Timer](https://amzn.to/4bvaT8m) ($14)**
-
+**[VOCOO Digital Timer](https://www.amazon.com/dp/B07XCHP1S2?tag=untitledpub03-20)** ($14)
 Fifteen minutes means fifteen minutes. The timer keeps me from "just one more thing"-ing my way into a full reorganization project when all I needed was a clear floor. The 90dB alarm is loud enough that I actually stop when it goes off.
