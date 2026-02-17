@@ -4,12 +4,11 @@ date: 2026-01-12
 excerpt: "THE BATTLE ZONE The homeschool zone started as a carefully curated corner of the dining room. Labeled bins. Color-coded folders. A vision board I made during a particularly optimistic summer. That..."
 author: Emily
 tags:
-  - zone transformation
+  - homeschool
   - category conquest
-  - homeschool zone
+  - zone transformation
   - decluttering
-  - reclaiming territory
-  - curriculum organization
+  - curriculum
 ---
 
 ## THE BATTLE ZONE
@@ -46,7 +45,12 @@ This is exactly what Category Conquest was designed for. I'd used it before on t
 
 Instead of organizing location by location (which just moves chaos around), Category Conquest gathers EVERYTHING in one category from the entire house, so you can see the true volume and make real decisions.
 
-For homeschool, I broke it into five categories: 1. Curriculum (textbooks, workbooks, teacher guides, programs) 2. Books (read-alouds, reference, readers) 3. Art supplies (markers, crayons, paints, paper, scissors) 4. Manipulatives (math blocks, letter tiles, science kits, learning toys) 5. Paper/Output (completed work, in-progress work, blank paper, printables)
+For homeschool, I broke it into five categories:
+1. Curriculum (textbooks, workbooks, teacher guides, programs)
+2. Books (read-alouds, reference, readers)
+3. Art supplies (markers, crayons, paints, paper, scissors)
+4. Manipulatives (math blocks, letter tiles, science kits, learning toys)
+5. Paper/Output (completed work, in-progress work, blank paper, printables)
 
 The game plan: Saturday morning: Gather everything into the living room (Joey and Gracie were bribed with screen time). Saturday afternoon: Sort into five category piles. Sunday: Go through each category, decide what stays, set up new systems.
 
@@ -88,31 +92,11 @@ By Sunday evening, I had donated four boxes of curriculum, thrown away two garba
 
 Here's what's actually working now:
 
-**[Simple Houseware Magazine File Holders](https://amzn.to/3YCahpS), 12-Pack ($18)**
-
+**[Simple Houseware Magazine File Holders, 12-Pack](https://www.amazon.com/dp/B00RR7SM6K?tag=untitledpub03-20)** ($18)
 Each subject gets one magazine holder. Math curriculum in one, language arts in another. When it's full, something has to go before anything new comes in. This is the single biggest change—visible limits prevent accumulation.
 
-**[Sterilite 3-Drawer Desktop Organizer](https://amzn.to/4bs4BpZ) ($15)**
-
+**[Sterilite 3-Drawer Desktop Organizer](https://www.amazon.com/dp/B0006HVM2U?tag=untitledpub03-20)** ($15)
 For art supplies in active rotation. Top drawer: markers and crayons. Middle: scissors, glue, tape. Bottom: colored pencils and special pens. If it doesn't fit, we have too much.
-
-**[IRIS USA Stackable Clear Bins, 32 Quart](https://amzn.to/4sIdYs6) ($42 for 6)**
-
-Three bins: one for manipulatives, one for science supplies, one for "current semester" materials. Clear so we can see what's inside. Stacks in the closet when not in use.
-
-**[Brother P-Touch PTD210 Label Maker](https://amzn.to/4pBtCTi) ($30)**
-
-Everything gets labeled. Sounds excessive until you realize that "the bin with math stuff" means different things to everyone in this house. Now it says "MATH: Current" and there's no confusion.
-
-**[Pendaflex Hanging File Folders](https://amzn.to/3YyuwF5) ($12 for 25)**
-
-For completed work and "keep for portfolio" papers. One folder per kid per subject. At the end of the year, I pull the best samples and recycle the rest. No more overflowing paper piles.
-
-**[GAMENOTE Rotating Art Supply Caddy](https://amzn.to/49udvAM) ($20)**
-
-This lives on the table during school time with the most-used supplies. Rotates so both kids can reach what they need. Contains the chaos instead of spreading across the entire table.
-
-The honest assessment: I spent about $140 on organizing supplies. I donated curriculum worth probably triple that. The math hurts, but the space and sanity are worth it.
 
 ## AFTER AND MAINTENANCE
 
@@ -121,11 +105,9 @@ Three months later, here's where we are:
 The homeschool zone is actually a zone again—not a sprawling empire. Everything fits on two shelves and in one closet. I can find things. The kids can find things. Nobody has discovered duplicate curriculum in shrink wrap.
 
 **Weekly maintenance:**
-
 Friday afternoon: Put away everything that migrated during the week. Sort papers into "keep" or "recycle" (5 minutes). Check art supply caddy for dried-out casualties.
 
 **Semester maintenance:**
-
 Evaluate what we're actually using vs. what's just taking up space. Donate anything that's been untouched. Before buying new curriculum: CHECK WHAT WE ALREADY OWN.
 
 The hard truth: I will probably still buy curriculum I don't need because a blogger makes it sound amazing. But now I have a system that limits accumulation and forces decisions before things get buried.
