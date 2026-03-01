@@ -22,11 +22,6 @@ layout: base
       {% if postslist.length %}
         {% for post in postslist %}
         <article class="post-card">
-          {% if post.data.image %}
-          <a href="{{ post.url }}">
-            <img src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy">
-          </a>
-          {% endif %}
           <div class="post-card-content">
             <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
             <p class="excerpt">{{ post.data.excerpt or post.templateContent | excerpt }}</p>
