@@ -1,14 +1,15 @@
 {
-  "name": "Systems Under Siege",
-  "tagline": "One Woman's Battle for a Clean House",
-  "description": "Hi, I'm Emily. I'm a graphic designer working from home, a homeschool mom to two kids, and the person solely responsible for keeping our 3-bedroom house from complete chaos. Spoiler: I'm not winning. This blog is where I share what I'm learning—organizing tactics that actually work when you're surrounded by unpredictable, spontaneous people.",
+  "name": "The Clean Enough House",
+  "tagline": "Good Enough Is the Goal",
+  "description": "Hi, I'm Emily. I'm a graphic designer working from home, a homeschool mom to two kids, and the person solely responsible for keeping our house from complete chaos. Spoiler: I'm not winning. This blog is where I share what I'm learning—organizing tactics that actually work when you're surrounded by unpredictable, spontaneous people. Where good enough is the goal.",
   "url": "https://systems-under-siege.untitledpublishers.com",
   "author": {
     "name": "Emily",
     "email": "siege@untitledpublishers.com"
   },
-  "logo": "",
-  "favicon": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1770137550/systems-under-siege/favicon.jpg",
+  "logo": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1772326458/logo_header_v3_d5g8qm.jpg",
+  "favicon": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1772326458/logo_favicon_v3_bnwgja.jpg",
+  "defaultImage": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1772326458/logo_main_v3_boap0k.jpg",
   "colors": {
     "primary": "#9CAF88",
     "primaryDark": "#7A9066",
@@ -46,5 +47,5 @@
     { "label": "RSS", "url": "/rss/" },
     { "label": "Sitemap", "url": "/sitemap.xml" }
   ],
-  "copyright": "Systems Under Siege. An Untitled Publishers blog."
+  "copyright": "The Clean Enough House. An Untitled Publishers blog."
 }
