@@ -22,12 +22,20 @@ body {
 
 .site-header .container { display: flex; justify-content: space-between; align-items: center; }
 
+.logo { text-decoration: none; }
+
 .logo-text {
     font-family: var(--font-serif);
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-primary);
     text-decoration: none;
+}
+
+.logo-image {
+    height: 48px;
+    width: auto;
+    display: block;
 }
 
 .main-nav { display: flex; gap: 32px; }
@@ -134,4 +142,5 @@ body {
   .share-buttons { flex-wrap: wrap; }
   .post-list-item { flex-direction: column; gap: 8px; }
   .post-list-meta { width: auto; }
+  .logo-image { height: 40px; }
 }
