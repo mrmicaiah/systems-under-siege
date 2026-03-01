@@ -33,7 +33,7 @@ body {
 }
 
 .logo-image {
-    height: 48px;
+    height: 80px;
     width: auto;
     display: block;
 }
@@ -142,5 +142,5 @@ body {
   .share-buttons { flex-wrap: wrap; }
   .post-list-item { flex-direction: column; gap: 8px; }
   .post-list-meta { width: auto; }
-  .logo-image { height: 40px; }
+  .logo-image { height: 60px; }
 }
