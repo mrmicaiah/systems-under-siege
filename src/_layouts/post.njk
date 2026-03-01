@@ -10,7 +10,7 @@ layout: base
   "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ site.url }}{{ page.url }}" },
   "headline": "{{ title }}",
   "description": "{{ excerpt or site.description }}",
-  "image": "{{ image or site.favicon }}",
+  "image": "{{ site.defaultImage or site.favicon }}",
   "author": { "@type": "Person", "name": "{{ author or site.author.name }}" },
   "publisher": { "@type": "Organization", "name": "Untitled Publishers" },
   "datePublished": "{{ date | isoDate }}",
@@ -32,12 +32,6 @@ layout: base
       </p>
     </div>
   </header>
-
-  {% if image %}
-  <div class="post-featured-image">
-    <img src="{{ image }}" alt="{{ title }}" loading="lazy">
-  </div>
-  {% endif %}
 
   <div class="post-content">{{ content | safe }}</div>
 
