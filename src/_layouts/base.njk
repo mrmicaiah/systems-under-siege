@@ -10,7 +10,7 @@
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:type" content="{% if layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ image or site.favicon }}">
+  <meta property="og:image" content="{{ image or site.defaultImage or site.favicon }}">
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ title or site.name }}">
@@ -70,7 +70,11 @@
   <header class="site-header">
     <div class="container">
       <a href="/" class="logo">
+        {% if site.logo %}
+        <img src="{{ site.logo }}" alt="{{ site.name }}" class="logo-image">
+        {% else %}
         <span class="logo-text">{{ site.name }}</span>
+        {% endif %}
       </a>
       <nav class="main-nav">
         {% for item in site.navigation %}
