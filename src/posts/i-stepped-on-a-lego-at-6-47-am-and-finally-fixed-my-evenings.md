@@ -3,6 +3,11 @@ title: "I Stepped on a Lego at 6:47 AM and Finally Fixed My Evenings"
 date: 2026-03-06
 excerpt: "A simple 20-minute nightly cleaning routine that resets your house so you don't wake up to yesterday's mess. Step-by-step evening reset for busy moms."
 author: Emily
+tags:
+  - method tutorial
+  - evening lockdown
+  - living room
+  - daily defense
 ---
 
 # I Stepped on a Lego at 6:47 AM and Finally Fixed My Evenings
