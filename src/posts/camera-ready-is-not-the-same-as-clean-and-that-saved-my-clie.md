@@ -3,6 +3,11 @@ title: "Camera-Ready Is Not the Same as Clean (And That Saved My Client Call)"
 date: 2026-03-16
 excerpt: "Quick morning cleanup for work-from-home moms. How to make your living room camera-ready in 3 minutes when your spouse leaves chaos behind every night."
 author: Emily
+tags:
+  - disaster chronicle
+  - morning launch sequence
+  - living room
+  - daily defense
 ---
 
 6:22 AM. Client call at 7:00.
