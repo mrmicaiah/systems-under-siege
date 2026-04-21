@@ -3,6 +3,11 @@ title: "Will My Family Actually Eat This? (A Pantry Purge in One Question)"
 date: 2026-03-23
 excerpt: "Found 4 cinnamon containers and 3 expired cake mixes. One modified question transformed my chaotic pantry into functional storage. Here's how."
 author: Emily
+tags:
+  - zone transformation
+  - the joy test
+  - pantry
+  - reclaiming territory
 ---
 
 # Will My Family Actually Eat This? (A Pantry Purge in One Question)
