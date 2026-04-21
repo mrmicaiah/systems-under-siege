@@ -3,6 +3,11 @@ title: "My In-Laws Were 18 Minutes Away. The Dining Table Hadn't Seen a Plate Si
 date: 2026-03-05
 excerpt: "Learn the 15-minute strike method to clear a cluttered dining table fast when surprise guests are incoming. Four simple rules for speed cleaning when time is non-negotiable."
 author: Emily
+tags:
+  - disaster chronicle
+  - 15-minute strike
+  - dining room
+  - daily defense
 ---
 
 # My In-Laws Were 18 Minutes Away. The Dining Table Hadn't Seen a Plate Since Thanksgiving.
