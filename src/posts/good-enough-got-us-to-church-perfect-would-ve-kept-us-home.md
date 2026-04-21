@@ -3,6 +3,11 @@ title: "Good Enough Got Us to Church. Perfect Would've Kept Us Home."
 date: 2026-03-12
 excerpt: "It's 10:12 AM. Church starts at 10:30. I'm in pajama pants. Here's the triage method that got four humans dressed and out the door."
 author: Emily
+tags:
+  - disaster chronicle
+  - triage rules
+  - master bedroom
+  - emergency protocols
 ---
 
 # Good Enough Got Us to Church. Perfect Would've Kept Us Home.
