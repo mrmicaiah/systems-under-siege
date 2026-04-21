@@ -3,6 +3,7 @@ layout: base
 ---
 
 {% block head %}
+{% set keywordTags = tags | without('posts') %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -10,11 +11,24 @@ layout: base
   "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ site.url }}{{ page.url }}" },
   "headline": "{{ title }}",
   "description": "{{ excerpt or site.description }}",
-  "image": "{{ site.defaultImage or site.favicon }}",
-  "author": { "@type": "Person", "name": "{{ author or site.author.name }}" },
-  "publisher": { "@type": "Organization", "name": "Untitled Publishers" },
+  "image": "{{ image or site.defaultImage or site.favicon }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ author or site.author.name }}",
+    "url": "{{ site.url }}/about/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.logo }}"
+    }
+  },
   "datePublished": "{{ date | isoDate }}",
-  "dateModified": "{{ date | isoDate }}"
+  "dateModified": "{{ (dateModified or date) | isoDate }}",
+  "inLanguage": "en-US"{% if keywordTags.length %},
+  "keywords": "{{ keywordTags | join(', ') }}"{% endif %}
 }
 </script>
 {% endblock %}
@@ -58,7 +72,7 @@ layout: base
     <h3>Comments</h3>
     <form class="comment-form" id="comment-form">
       <input type="text" name="author" placeholder="Your name" required>
-      <textarea name="comment" placeholder="Share your thoughts..." required></textarea>
+      <textarea name="comment" placeholder="Share your thoughts.." required></textarea>
       <button type="submit">Post Comment</button>
     </form>
     <div class="comments-list"><p>Loading comments...</p></div>

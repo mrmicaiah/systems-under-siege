@@ -70,6 +70,12 @@ module.exports = function(eleventyConfig) {
     return arr.slice(0, n);
   });
 
+  // Filter out a specific item from an array (e.g., removing 'posts' tag from keywords)
+  eleventyConfig.addFilter('without', (arr, item) => {
+    if (!Array.isArray(arr)) return [];
+    return arr.filter(x => x !== item);
+  });
+
   const md = markdownIt({
     html: true,
     breaks: true,
