@@ -3,6 +3,11 @@ title: "The 15-Minute Strike for Rooms That Need 15 Hours"
 date: 2026-03-24
 excerpt: "When 15 minutes can't fix the room, fix the path. A panic protocol for overwhelming kids' spaces that creates functional, closeable results fast."
 author: Emily
+tags:
+  - quick win
+  - 15-minute strike
+  - kids room
+  - daily defense
 ---
 
 # The 15-Minute Strike for Rooms That Need 15 Hours
