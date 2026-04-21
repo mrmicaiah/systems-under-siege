@@ -3,6 +3,11 @@ title: "I Stopped Fighting the Laundry Pile (And Started Containing It Instead)"
 date: 2026-03-17
 excerpt: "Tired of clean laundry living on your couch? This simple sorting system gets laundry off furniture and into kids' rooms in under 2 minutes."
 author: Emily
+tags:
+  - zone transformation
+  - chaos zone containment
+  - laundry area
+  - reclaiming territory
 ---
 
 The clean laundry pile on my couch has become furniture.
