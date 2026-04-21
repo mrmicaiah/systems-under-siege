@@ -49,6 +49,21 @@ layout: base
 
   <div class="post-content">{{ content | safe }}</div>
 
+  {% set relatedPosts = collections.posts | relatedPosts(page.url, tags, 4) %}
+  {% if relatedPosts.length %}
+  <aside class="related-posts">
+    <h3>Keep Reading</h3>
+    <div class="related-posts-grid">
+      {% for post in relatedPosts %}
+      <a href="{{ post.url }}" class="related-post-card">
+        <h4>{{ post.data.title }}</h4>
+        <p class="meta">{{ post.date | readableDate }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </aside>
+  {% endif %}
+
   {% if tags %}
   <div class="post-tags">
     <div class="container">

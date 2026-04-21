@@ -76,6 +76,30 @@ module.exports = function(eleventyConfig) {
     return arr.filter(x => x !== item);
   });
 
+  // Find related posts by shared tags. Scores by tag overlap (more shared tags = higher rank),
+  // ties broken by date (newer first). Excludes the current post.
+  eleventyConfig.addFilter('relatedPosts', (collection, currentUrl, currentTags, limit) => {
+    if (!Array.isArray(collection) || !Array.isArray(currentTags)) return [];
+
+    const myTags = currentTags.filter(t => t !== 'posts');
+    if (myTags.length === 0) return [];
+
+    const scored = collection
+      .filter(post => post.url !== currentUrl)
+      .map(post => {
+        const postTags = ((post.data && post.data.tags) || []).filter(t => t !== 'posts');
+        const overlap = postTags.filter(t => myTags.includes(t)).length;
+        return { post, overlap };
+      })
+      .filter(item => item.overlap > 0)
+      .sort((a, b) => {
+        if (b.overlap !== a.overlap) return b.overlap - a.overlap;
+        return b.post.date - a.post.date;
+      });
+
+    return scored.slice(0, limit || 4).map(item => item.post);
+  });
+
   const md = markdownIt({
     html: true,
     breaks: true,
