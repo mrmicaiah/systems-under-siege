@@ -82,39 +82,13 @@ layout: base
     <button class="like-btn" onclick="toggleLike('{{ page.fileSlug }}')">♥ Like this post</button>
     <p class="like-count">Loading...</p>
   </div>
-
-  <section class="comments-section" id="comments">
-    <h3>Comments</h3>
-    <form class="comment-form" id="comment-form">
-      <input type="text" name="author" placeholder="Your name" required>
-      <textarea name="comment" placeholder="Share your thoughts.." required></textarea>
-      <button type="submit">Post Comment</button>
-    </form>
-    <div class="comments-list"><p>Loading comments...</p></div>
-  </section>
 </article>
 
 {% block scripts %}
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const slug = '{{ page.fileSlug }}';
-    loadComments(slug);
     loadLikeCount(slug);
-    
-    const commentForm = document.getElementById('comment-form');
-    if (commentForm) {
-      commentForm.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        const author = commentForm.querySelector('[name="author"]').value;
-        const text = commentForm.querySelector('[name="comment"]').value;
-        const btn = commentForm.querySelector('button');
-        btn.textContent = 'Posting...'; btn.disabled = true;
-        const success = await submitComment(slug, author, text);
-        if (success) { commentForm.reset(); btn.textContent = 'Posted!'; }
-        else { btn.textContent = 'Error - Try Again'; }
-        setTimeout(() => { btn.textContent = 'Post Comment'; btn.disabled = false; }, 2000);
-      });
-    }
   });
 </script>
 {% endblock %}
