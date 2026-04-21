@@ -3,6 +3,11 @@ title: "I Threw a Dish Towel Over My Sink Mid-Zoom. It Worked."
 date: 2026-03-09
 excerpt: "Realized your messy kitchen is visible on a video call? Here's how to fake a clean kitchen in 5 minutes—the emergency protocol every work-from-home mom needs."
 author: Emily
+tags:
+  - disaster chronicle
+  - 5-minute facade
+  - kitchen
+  - emergency protocols
 ---
 
 # I Threw a Dish Towel Over My Sink Mid-Zoom. It Worked.
