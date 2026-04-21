@@ -3,6 +3,11 @@ title: "The Problem With My Mornings Wasn't the Morning"
 date: 2026-03-10
 excerpt: "Tried waking up earlier and still had chaotic mornings? The real fix isn't more time—it's fewer decisions. Here's the night-before routine that actually works."
 author: Emily
+tags:
+  - myth buster
+  - morning launch sequence
+  - entryway
+  - daily defense
 ---
 
 # The Problem With My Mornings Wasn't the Morning
