@@ -3,6 +3,11 @@ title: "Mystery Puddles, Wet Towels, and the 2-Minute Fix I Wish I'd Started Soo
 date: 2026-03-25
 excerpt: "Mystery puddles at 6 AM. Wet towels on the floor. Toothpaste cement. A 2-minute evening ritual fixed my mornings without fixing my kids."
 author: Emily
+tags:
+  - method tutorial
+  - anchor ritual
+  - kids bathroom
+  - daily defense
 ---
 
 # Mystery Puddles, Wet Towels, and the 2-Minute Fix I Wish I'd Started Sooner
