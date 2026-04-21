@@ -3,6 +3,11 @@ title: "Six Coffee Cups, Forty-Seven Sticky Notes, and One Way Back"
 date: 2026-03-13
 excerpt: "My desk looked like a paper bomb exploded in a coffee shop. Here's the crisis recovery plan that got it functional again without the shame spiral."
 author: Emily
+tags:
+  - zone transformation
+  - crisis recovery plans
+  - work area
+  - emergency protocols
 ---
 
 # Six Coffee Cups, Forty-Seven Sticky Notes, and One Way Back
