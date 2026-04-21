@@ -3,6 +3,11 @@ title: "Stop Organizing. Start Excavating. (A 15-Minute Crisis Protocol)"
 date: 2026-03-18
 excerpt: "When the homeschool table is buried and carpool is 25 minutes away, stop organizing and start excavating. A 15-minute crisis protocol that actually works."
 author: Emily
+tags:
+  - quick win
+  - 15-minute strike
+  - homeschool zone
+  - daily defense
 ---
 
 Monday morning, 8:17 AM. Co-op carpool arrives at 8:42.
