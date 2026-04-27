@@ -3,6 +3,12 @@ title: "I Hid Dirty Pots in the Oven and Nailed My Client Presentation"
 date: 2026-04-14
 excerpt: "My sister dropped off two extra kids 45 minutes before my client call. Here's the triage framework I used to fake a clean house and nail the presentation."
 author: Emily
+tags:
+  - disaster chronicle
+  - triage rules
+  - kitchen
+  - living room
+  - emergency protocols
 ---
 
 # I Hid Dirty Pots in the Oven and Nailed My Client Presentation
