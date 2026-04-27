@@ -3,6 +3,11 @@ title: "I Found a Fossilized Chicken Nugget Under the Booster Seat"
 date: 2026-04-03
 excerpt: "After a field trip carpool disaster, I added a 5-minute car reset to my evening routine. Here's the quick fix that makes my car presentable overnight."
 author: Emily
+tags:
+  - quick win
+  - evening lockdown
+  - car
+  - daily defense
 ---
 
 # I Found a Fossilized Chicken Nugget Under the Booster Seat
