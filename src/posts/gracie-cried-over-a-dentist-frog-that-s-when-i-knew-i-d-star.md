@@ -3,6 +3,11 @@ title: "Gracie Cried Over a Dentist Frog. That's When I Knew I'd Started Wrong."
 date: 2026-04-13
 excerpt: "I ignored the decluttering advice to start with clothes and dove straight into toys. Three hours and one dentist frog crisis later, I learned why order matters."
 author: Emily
+tags:
+  - myth buster
+  - the right order
+  - living room
+  - reclaiming territory
 ---
 
 Every decluttering book says the same thing: start with clothes.
