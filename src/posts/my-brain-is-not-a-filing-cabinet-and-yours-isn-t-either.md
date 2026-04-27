@@ -3,6 +3,11 @@ title: "My Brain Is Not a Filing Cabinet (And Yours Isn't Either)"
 date: 2026-04-02
 excerpt: "After showing up to Picture Day with art supplies, I finally admitted my brain can't hold a family schedule. Here's the 15-minute weekly system that fixed it."
 author: Emily
+tags:
+  - disaster chronicle
+  - command center
+  - kitchen
+  - daily defense
 ---
 
 # My Brain Is Not a Filing Cabinet (And Yours Isn't Either)
