@@ -3,6 +3,11 @@ title: "Michelle Was Coming to Babysit. The Living Room Looked Like a Crime Scen
 date: 2026-04-08
 excerpt: "The babysitter was 20 minutes away and my living room was a disaster. Here's the 27-item panic declutter that saved my date night (and my dignity)."
 author: Emily
+tags:
+  - disaster chronicle
+  - 27-toss challenge
+  - living room
+  - reclaiming territory
 ---
 
 Lucas made reservations.
