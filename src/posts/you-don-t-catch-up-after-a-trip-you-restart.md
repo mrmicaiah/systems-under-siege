@@ -3,6 +3,11 @@ title: "You Don't Catch Up After a Trip. You Restart."
 date: 2026-04-06
 excerpt: "Came home from a trip to bedroom chaos? Skip the shame spiral. This 3-day restart protocol gets your room back without trying to do everything at once."
 author: Emily
+tags:
+  - zone transformation
+  - crisis recovery plans
+  - master bedroom
+  - emergency protocols
 ---
 
 The master bedroom. The one room in this house that's supposed to be ours.
