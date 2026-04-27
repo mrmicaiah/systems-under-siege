@@ -3,6 +3,11 @@ title: "I Cleaned for the Drop-Off, Not the Sleepover (And That's the Whole Poin
 date: 2026-04-01
 excerpt: "My son forgot to mention the sleepover. I had 15 minutes before another parent saw my living room. Here's exactly what I cleaned—and what I ignored."
 author: Emily
+tags:
+  - disaster chronicle
+  - 15-minute strike
+  - living room
+  - daily defense
 ---
 
 ## THE SETUP
