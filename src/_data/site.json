@@ -45,7 +45,8 @@
   ],
   "footerLinks": [
     { "label": "RSS", "url": "/rss/" },
-    { "label": "Sitemap", "url": "/sitemap.xml" }
+    { "label": "Sitemap", "url": "/sitemap.xml" },
+    { "label": "Site by Sites On Call", "url": "https://sitesoncall.com" }
   ],
   "copyright": "The Clean Enough House. An Untitled Publishers blog."
 }
